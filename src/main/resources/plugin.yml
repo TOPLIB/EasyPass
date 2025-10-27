@@ -1,0 +1,4 @@
+name: EasyPass
+version: '${project.version}'
+main: me.toplib.easypass.EasyPass
+api-version: '1.16'
